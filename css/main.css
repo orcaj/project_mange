@@ -1,0 +1,19 @@
+.card-body > .row {
+    margin-top: 15px !important;
+}
+
+.modal-body > .row {
+    margin-top: 15px !important;
+}
+
+.card-footer {
+    text-align: right !important;
+}
+
+.tab-pane {
+    padding: 30px !important;
+}
+
+.btn-danger {
+    color: white !important;
+}
